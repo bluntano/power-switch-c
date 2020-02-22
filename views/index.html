@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <title>Power Switch!</title>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="/main.css">
+        <style>
+            body {
+                background-color: rgb(115, 193, 199);
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Power Switch!</h1>
+        <form action="/onoff" method="GET">
+            <button name="onoff" value="default" type="submit">On / Off</button>
+        </form>
+	    <form action="/onoff" method="GET">
+            <button name="onoff" value="force" type="submit">FORCE</button>
+        </form>
+    </body>
+</html>
