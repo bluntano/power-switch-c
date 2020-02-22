@@ -4,6 +4,8 @@
 ## What makes it so special?
 The remote web server is written in C, which I've never done before: writing a web server in C language.
 
+I learned making a web server in C from [Jacob Sorber](https://people.cs.clemson.edu/~jsorber/)'s video ["Program your own web server in C. (sockets)"](https://www.youtube.com/watch?v=esXw4bdaZkc)
+
 ## Does it work?
 Yes, it actually does! There are some disadvantages but, I got the main part to work.
 
